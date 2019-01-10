@@ -1,8 +1,4 @@
 
-/* Authored by Rittik Basak , Nafiz Islam , Abdul Wasi and Mahmudnobe */
-
-
-
 # include "iGraphics.h"
 # include <stdio.h>
 # include <string.h>
